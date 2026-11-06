@@ -27,10 +27,10 @@ All modules work flawlessly. Works on Steam. Single-player and everywhere.
 
 Megabonk is **fun** but the **grind is real**. Players on Steam and Reddit keep asking for the same things:
 
-- **Silver takes forever** — the meta-currency for unlocks drops too slowly, and most players just want to try new characters without 50 hours of grinding [citation:4].
-- **Start-of-run RNG is brutal** — bad early upgrades force constant restarts. Players literally beg for "Favorite" systems or better luck [citation:13].
-- **Some characters are slow** — you can't reach chests, shrines, or tombs before the swarm catches you. Movement Speed is the #1 requested QoL .
-- **Banish/Refresh/Skip feel punishing** — using them costs you a full level-up with nothing in return [citation:2].
+- **Silver takes forever** — the meta-currency for unlocks drops too slowly, and most players just want to try new characters without 50 hours of grinding.
+- **Start-of-run RNG is brutal** — bad early upgrades force constant restarts. Players literally beg for "Favorite" systems or better luck.
+- **Some characters are slow** — you can't reach chests, shrines, or tombs before the swarm catches you. Movement Speed is the #1 requested QoL.
+- **Banish/Refresh/Skip feel punishing** — using them costs you a full level-up with nothing in return.
 
 This hack targets **exactly those pain points**. No useless bloat. Just the stuff that makes you actually want to keep playing.
 
@@ -45,34 +45,34 @@ This hack targets **exactly those pain points**. No useless bloat. Just the stuf
 ## 🔥 Features (Ranked by Player Demand)
 
 ### 🥇 Most Requested — Unlocks & Economy
-- **Free Unlocks** — Bypass the Silver limitation entirely. Buy any character, weapon, or map without spending Silver. Your Silver stays intact [citation:1].
-- **Infinite Silver** — Set Silver to any amount in the main menu. Unlock everything instantly [citation:1].
+- **Free Unlocks** — Bypass the Silver limitation entirely. Buy any character, weapon, or map without spending Silver. Your Silver stays intact.
+- **Infinite Silver** — Set Silver to any amount in the main menu. Unlock everything instantly.
 - **Infinite Gold** — Gold never decreases during a run.
 - **Edit Gold** — Set exact Gold amount.
 - **Free Shopping** — Buy from the Shady Guy and chests for free.
-- **Infinite Tokens** — As long as you have one, you have infinite [citation:1].
+- **Infinite Tokens** — As long as you have one, you have infinite.
 
 ### 🥈 Start-of-Run Control (Anti-RNG)
-- **Max Luck on Level Up** — Guarantee the best upgrade offers. No more trash choices [citation:1].
-- **Edit Banishes** — Set how many Banishes you have. Curate your pool without punishment [citation:1][citation:2].
-- **Edit Refreshes** — Unlimited rerolls on level-up offers [citation:1].
-- **Edit Skips** — Never run out of Skips [citation:1].
+- **Max Luck on Level Up** — Guarantee the best upgrade offers. No more trash choices.
+- **Edit Banishes** — Set how many Banishes you have. Curate your pool without punishment.
+- **Edit Refreshes** — Unlimited rerolls on level-up offers.
+- **Edit Skips** — Never run out of Skips.
 - **Edit Experience** — Set exact XP to force specific level-ups.
 - **Add Levels** — Instant level-up.
 
 ### 🥉 Combat & Survival
-- **God Mode** — Complete immunity to all damage [citation:1].
+- **God Mode** — Complete immunity to all damage.
 - **Infinite Health** — HP never decreases.
-- **One Hit Kill** — Kill any enemy instantly [citation:1].
-- **No Attack Cooldown** — Attack as fast as the game allows [citation:1].
+- **One Hit Kill** — Kill any enemy instantly.
+- **No Attack Cooldown** — Attack as fast as the game allows.
 - **Damage Multiplier** — Boost all damage output.
-- **Max HP / HP Regen** — Permanent stat boosts [citation:1].
-- **Max Shield / Armor / Evasion** — Full defensive suite [citation:1].
-- **Lifesteal / Crit Chance / Attack Speed** — Edit all combat stats directly [citation:1].
+- **Max HP / HP Regen** — Permanent stat boosts.
+- **Max Shield / Armor / Evasion** — Full defensive suite.
+- **Lifesteal / Crit Chance / Attack Speed** — Edit all combat stats directly.
 
 ### 🏃 Movement (The Real QoL)
-- **Edit Movement Speed** — The #1 fix for slow characters. Reach chests, shrines, and tombs before the swarm .
-- **Infinite Jump** — Jump endlessly. Bunny-hop without the skill [citation:1].
+- **Edit Movement Speed** — The #1 fix for slow characters. Reach chests, shrines, and tombs before the swarm.
+- **Infinite Jump** — Jump endlessly. Bunny-hop without the skill.
 - **Fly Mode** — Free flight. Skip terrain.
 - **No Clip** — Pass through objects.
 
@@ -105,28 +105,28 @@ Every setting can be saved, loaded, and shared.
 
 | Module | Status | Why Players Want It |
 |--------|--------|---------------------|
-| Free Unlocks | ✅ | Skip the Silver grind entirely [citation:1] |
-| Infinite Silver | ✅ | Unlock everything instantly [citation:1] |
+| Free Unlocks | ✅ | Skip the Silver grind entirely |
+| Infinite Silver | ✅ | Unlock everything instantly |
 | Infinite Gold | ✅ | Never worry about in-run economy |
 | Edit Gold | ✅ | Set exact amount |
-| Free Shopping | ✅ | Shady Guy for free [citation:1] |
-| Infinite Tokens | ✅ | Never run out [citation:1] |
-| Max Luck | ✅ | Best upgrade offers guaranteed [citation:1] |
-| Edit Banishes | ✅ | Curate your pool [citation:2] |
-| Edit Refreshes | ✅ | Unlimited rerolls [citation:1] |
-| Edit Skips | ✅ | Never lose a level [citation:1] |
-| Edit Experience | ✅ | Force level-ups [citation:1] |
+| Free Shopping | ✅ | Shady Guy for free |
+| Infinite Tokens | ✅ | Never run out |
+| Max Luck | ✅ | Best upgrade offers guaranteed |
+| Edit Banishes | ✅ | Curate your pool |
+| Edit Refreshes | ✅ | Unlimited rerolls |
+| Edit Skips | ✅ | Never lose a level |
+| Edit Experience | ✅ | Force level-ups |
 | Add Levels | ✅ | Instant level |
-| God Mode | ✅ | No damage [citation:1] |
+| God Mode | ✅ | No damage |
 | Infinite Health | ✅ | Never die |
-| One Hit Kill | ✅ | Instant kills [citation:1] |
-| No Attack Cooldown | ✅ | Max DPS [citation:1] |
+| One Hit Kill | ✅ | Instant kills |
+| No Attack Cooldown | ✅ | Max DPS |
 | Damage Multiplier | ✅ | Boost damage |
-| Max HP / Regen | ✅ | Stat editing [citation:1] |
-| Max Shield / Armor / Evasion | ✅ | Full defense [citation:1] |
-| Lifesteal / Crit / Attack Speed | ✅ | Combat stats [citation:1] |
-| Edit Movement Speed | ✅ | #1 QoL request  |
-| Infinite Jump | ✅ | Mobility [citation:1] |
+| Max HP / Regen | ✅ | Stat editing |
+| Max Shield / Armor / Evasion | ✅ | Full defense |
+| Lifesteal / Crit / Attack Speed | ✅ | Combat stats |
+| Edit Movement Speed | ✅ | #1 QoL request |
+| Infinite Jump | ✅ | Mobility |
 | Fly Mode | ✅ | Free flight |
 | No Clip | ✅ | Pass through |
 | Kill Every Enemy | ✅ | Clear map |
@@ -203,11 +203,11 @@ Every setting can be saved, loaded, and shared.
 
 ## ❓ FAQ
 
-**Q: What's the fastest way to unlock everything?** — Use **Free Unlocks** + **Infinite Silver**. Buy every character, weapon, and map without spending Silver [citation:1].
+**Q: What's the fastest way to unlock everything?** — Use **Free Unlocks** + **Infinite Silver**. Buy every character, weapon, and map without spending Silver.
 
-**Q: I keep getting bad upgrades at the start. Can this fix it?** — Yes. **Max Luck** + **Edit Refreshes** + **Edit Banishes**. Only take what you want [citation:1][citation:13].
+**Q: I keep getting bad upgrades at the start. Can this fix it?** — Yes. **Max Luck** + **Edit Refreshes** + **Edit Banishes**. Only take what you want.
 
-**Q: Some characters feel too slow. What do I use?** — **Edit Movement Speed**. Set it to whatever feels right. This is the #1 QoL request from the community .
+**Q: Some characters feel too slow. What do I use?** — **Edit Movement Speed**. Set it to whatever feels right. This is the #1 QoL request from the community.
 
 **Q: Do I need a key?** — No. Free.
 
@@ -219,7 +219,7 @@ Every setting can be saved, loaded, and shared.
 
 **Q: What is Megabonk?** — A 3D roguelike survival game by Vedinad, released September 2025. Skateboarding skeleton. Microwaved items. 117k concurrent players.
 
-**Q: Why "Silver"?** — Silver is Megabonk's meta-currency for permanent unlocks. It drops rarely and is used at the unlock shop. Most players want more of it [citation:4].
+**Q: Why "Silver"?** — Silver is Megabonk's meta-currency for permanent unlocks. It drops rarely and is used at the unlock shop. Most players want more of it.
 
 ---
 
